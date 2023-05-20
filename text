@@ -1,4 +1,9 @@
 first
+<<<<<<< HEAD
 secondbr commit 1
 secondbr commit 2
 secondbr commit 3
+firstbr commit 1
+firstbr commit 2
+firstbr commit 3
+>>>>>>> firstbr
