@@ -7,3 +7,4 @@ firstbr commit 5
 firstbr commit 6
 clone firstbr commit 1
 clone firstbr commit 2
+clone firstbr commit 3
